@@ -1,3 +1,3 @@
 # JS-LoanCalculator
 ## Example  
-![image](https://github.com/Alex44711/JS-LoanCalculator/blob/master/Demo.png)
+![image](https://github.com/Alex44711/JS-LoanCalculator/blob/master/Demo.png = 300*500)
